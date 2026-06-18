@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-Educational-orange?style=flat-square)
 
 > **DevelopersHub Corporation (DHC) — Cybersecurity Internship | Weeks 4–6**
-> Internship ID: DHC-4661 | Muhammad Azfar Waqas | University of Wah — BS Cybersecurity
+> Internship ID: DHC-2706 | Muhammad Haris | University of Wah — BS Computer Science
 
 ---
 
@@ -79,7 +79,7 @@ The project demonstrates real-world application of:
 ## 📁 Project Structure
 
 ```
-Cybersecurity-WebSecurity-Project/
+Web-Secuirty-Analysis-Project-Sample/
 │
 ├── app.js                      # Main application entry point
 ├── package.json
@@ -130,10 +130,6 @@ Cybersecurity-WebSecurity-Project/
 - Git
 
 ### Step 1 — Clone the Repository
-```bash
-git clone https://github.com/MAK554267/Cybersecurity-WebSecurity-Project.git
-cd Cybersecurity-WebSecurity-Project
-```
 
 ### Step 2 — Install Dependencies
 ```bash
@@ -353,12 +349,10 @@ Through this project, the following skills were developed:
 
 ## 👨‍💻 Author
 
-**Muhammad Azfar Waqas**
-BS Cybersecurity (6th Semester) — University of Wah
-Internship ID: DHC-4661 — DevelopersHub Corporation
+**Muhammad Haris**
+BS Computer Science (8th Semester) — University of Wah
+Internship ID: DHC-2706 — DevelopersHub Corporation
 
-[![GitHub](https://img.shields.io/badge/GitHub-MAK554267-black?style=flat-square&logo=github)](https://github.com/MAK554267)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 
